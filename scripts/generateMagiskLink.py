@@ -22,6 +22,7 @@ import sys
 
 import json
 import requests
+import OrderedDict
 from pathlib import Path
 
 magisk_ver = sys.argv[1]
